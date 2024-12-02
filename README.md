@@ -4,7 +4,7 @@ This folder contains all the instances used in the manuscript: "Mathematical For
 
 ## Instance Details
 
-The instances were generated according to the Section 5.1 of the manuscript. They are organized in the folder "InstancesRBPPFO". The file names follow the pattern: "{N}{C}{W}_{CL}_{inst}_{U}.txt", meaning:
+The instances were generated according to the Section 5.1 of the manuscript. They are organized in the folder "Instances". The file names follow the pattern: "{N}{C}{W}_{CL}_{inst}_{U}.txt", meaning:
 
 N: Number of items (N1 = 50, N2 = 100);
 C: Capacity (C1, C2, C3) used in the BPPFO instances created by Clautiaux et al. (2014)*; 
